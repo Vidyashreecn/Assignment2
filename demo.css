@@ -1,0 +1,14 @@
+table {
+  border: 2px solid black;
+  width: 200px;
+  height: 200px;
+  border-collapse: separate;
+}
+
+th {
+  background-color: antiquewhite;
+}
+
+tr {
+  background-color: beige;
+}
